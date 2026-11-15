@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Business/Business.csproj" />
+  <Project Path="Data/Data.csproj" />
+  <Project Path="Identity/Identity.csproj" />
+  <Project Path="Mapper/Mapper.csproj" />
+  <Project Path="practicaparc1/practicaparc1.csproj" />
+</Solution>
